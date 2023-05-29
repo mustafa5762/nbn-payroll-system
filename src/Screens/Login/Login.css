@@ -1,0 +1,32 @@
+.login-wrapper {
+    margin-top: 20vh;
+    border: 3px solid #008083;
+    border-radius: 5px;
+}
+
+.login-card-header {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.login-card-header h4 {
+    font-size: 28px;
+}
+
+.text-body {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.text-required {
+    margin-left: 7px;
+}
+
+.text-only-admin {
+    margin-top: 7px;
+}
+
+.login-card-body {
+    padding: 30px;
+}
